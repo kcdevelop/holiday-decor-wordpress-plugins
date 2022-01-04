@@ -1,0 +1,30 @@
+.form-table th, 
+.form-table td,
+.holiday-decor-preview {
+	display: block !important;
+	max-width: 500px;
+}
+.form-table th, 
+.form-table td {
+	padding-bottom: 2px !important;
+	padding-top: 8px !important;
+}
+.form-table td {
+	padding-left: 0px !important;
+}
+.holiday-decor-preview,
+.holiday-decor-descriptions {
+	max-width: 500px;
+	width: 100%;
+}
+hr,
+.holiday-decor-preview {
+	background-color: #000;
+}
+.holiday-decor-preview {
+	margin-top: 25px;
+}
+hr {
+	margin-bottom: 20px;
+	height: 1px;
+}
